@@ -1,46 +1,55 @@
-# Getting Started with Create React App
+## 💡 Sobre o Projeto
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto está sendo desenvolvido no evento Next Level Week # 06 da [Rocketseat](https://rocketseat.com.br/) 🚀. O LetmeAsk é uma plataforma de comunicação entre stremers e o chat, para responder perguntas. Você pode visualiza o layout do projeto no [figma](https://www.figma.com/file/GC5OfXmU028sGhn5ztx1r0/Letmeask-Copy?node-id=45%3A3278).
 
-## Available Scripts
+------
 
-In the project directory, you can run:
+## 🧪 Tecnologias
 
-### `yarn start`
+Este projeto foi desenvolvido utilizando as tecnologias. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [ReactJS](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Firebase Authentication](https://firebase.google.com/products/auth)
+- [Firebase Realtime Database](https://firebase.google.com/products/realtime-database)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Rodando o Projeto
 
-### `yarn build`
+#### Crie um arquivo usando suas credencias do Firebase.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+.env.local `#nome do arquivo(na raiz do projeto)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+REACT_APP_API_KEY=
+REACT_APP_AUTH_DOMAIN=
+REACT_APP_DATABASE_URL=
+REACT_APP_PROJECT_ID=
+REACT_APP_STORAGE_BUCKET=
+REACT_APP_MESSAGING_SENDER_ID=
+REACT_APP_APP_ID=
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### Requisitos
 
-### `yarn eject`
+Você precisa ter instalado o [Node.js](https://nodejs.org/en/download/)  e o [Yarn](https://yarnpkg.com/) para rodar o projeto.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#### Clone o projeto e acesse a pasta.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+`$ git clone https://github.com/mchjohn/letmeask.git && cd letmeask`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### Agora instale as dependencias e rode o projeto.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+`$ yarn`
 
-## Learn More
+`$ yarn start`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+O aplicativo abrirá em seu navegador no endereço `http://localhost:3000`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+------
+
+Feito com 💜 por [Michel John](https://www.linkedin.com/in/micheljohn/)
+
