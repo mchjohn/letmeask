@@ -15,6 +15,12 @@ Este projeto foi desenvolvido utilizando as tecnologias.
 
 
 
+## Layout
+
+![](https://res.cloudinary.com/sk84all/image/upload/v1624584332/Screenshot_1_zona4y.png)
+
+
+
 ## 🚀 Rodando o Projeto
 
 #### Crie um arquivo usando suas credencias do Firebase.
