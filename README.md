@@ -3,6 +3,7 @@
 Este projeto está sendo desenvolvido no evento Next Level Week # 06 da [Rocketseat](https://rocketseat.com.br/) 🚀. O LetmeAsk é uma plataforma de comunicação entre stremers e o chat, para responder perguntas. Você pode visualiza o layout do projeto no [figma](https://www.figma.com/file/GC5OfXmU028sGhn5ztx1r0/Letmeask-Copy?node-id=45%3A3278).
 
 ------
+https://res.cloudinary.com/sk84all/image/upload/v1624584332/Screenshot_1_zona4y.png
 
 ## 🧪 Tecnologias
 
